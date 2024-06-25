@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Faruk\\OneDrive\\Masaüstü\\Projelerim\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj": {}
+    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Faruk\\OneDrive\\Masaüstü\\Projelerim\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj": {
+    "C:\\Users\\faruk\\OneDrive\\Masaüstü\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Faruk\\OneDrive\\Masaüstü\\Projelerim\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj",
+        "projectUniqueName": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj",
         "projectName": "MailSender.Service",
-        "projectPath": "C:\\Users\\Faruk\\OneDrive\\Masaüstü\\Projelerim\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj",
-        "packagesPath": "C:\\Users\\Faruk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Faruk\\OneDrive\\Masaüstü\\Projelerim\\dotnet-8-mail-send\\src\\MailSender.Service\\obj\\",
+        "projectPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\dotnet-8-mail-send\\src\\MailSender.Service\\MailSender.Service.csproj",
+        "packagesPath": "C:\\Users\\faruk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faruk\\OneDrive\\Masaüstü\\dotnet-8-mail-send\\src\\MailSender.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faruk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faruk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
